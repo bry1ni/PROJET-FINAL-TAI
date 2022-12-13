@@ -5,20 +5,20 @@ Le délai de notre projet été de 4 semaines ( du 19 novembre au 18 décembre )
 On avait fait une planification de travail and work tasks pour chaque semaines comme suit:
 
 La 1ère semaine du 19 au 26 novembre: 
-  - Lecture et ompréhension de l'article.
-  - Faire un résumé de l'article.
-  - Highliter les mots techniques, les fonctions .. qui n'etait pas clair a notre niveau.
+  - Lecture et ompréhension de l'article. ( DONE )
+  - Faire un résumé de l'article. ( DONE )
+  - Highliter les mots techniques, les fonctions .. qui n'etait pas clair a notre niveau. ( DONE )
  
 La 2ème semaine du 26 novembre au 3 décembre:
-  - Faire la compréhension et la recherche des définitions des trucs highliter de la première semaine.
-  - Commencer la rédaction du rapport.
-  - Faire la compréhension et le déroulement du modele utilisé (GU2Net).
-  - Faire la compréhension et spoter le lien entre le model et le code.
+  - Faire la compréhension et la recherche des définitions des trucs highliter de la première semaine. ( DONE )
+  - Commencer la rédaction du rapport. ( DONE )
+  - Faire la compréhension et le déroulement du modele utilisé (GU2Net). ( DONE )
+  - Faire la compréhension et spoter le lien entre le model et le code. ( PARTLY DONE )
   
 La 3ème semaine du 3 au 10 décembre:
   - Exécution du code ( malheuresement on a rencontrer des problèmes avec sa ).
 
 La 4ème semaine du 10 au 17 décembre:
-  - Révision sur tout se qu'on avait fait auparavant.
-  - Préparer une présentation PowerPoint.
-  - Mise en page du rapport.
+  - Révision sur tout se qu'on avait fait auparavant. ( NOT YET )
+  - Préparer une présentation PowerPoint. ( NOT YET )
+  - Mise en page du rapport. ( NOT YET )
