@@ -1,0 +1,24 @@
+Notre team est constitué de 4 personnes: BENATALLAH Rayan Ibrahim, BENAZZOU Fatima, MALLEK Lina, BRAHIMI Rodaina.
+Notre theme: You Only Learn Once: Universal Anatomical Landmark Detection.
+
+Le délai de notre projet été de 4 semaines ( du 19 novembre au 18 décembre ), 
+On avait fait une planification de travail and work tasks pour chaque semaines comme suit:
+
+La 1ère semaine du 19 au 26 novembre: 
+  - Lecture et ompréhension de l'article.
+  - Faire un résumé de l'article.
+  - Highliter les mots techniques, les fonctions .. qui n'etait pas clair a notre niveau.
+ 
+La 2ème semaine du 26 novembre au 3 décembre:
+  - Faire la compréhension et la recherche des définitions des trucs highliter de la première semaine.
+  - Commencer la rédaction du rapport.
+  - Faire la compréhension et le déroulement du modele utilisé (GU2Net).
+  - Faire la compréhension et spoter le lien entre le model et le code.
+  
+La 3ème semaine du 3 au 10 décembre:
+  - Exécution du code ( malheuresement on a rencontrer des problèmes avec sa ).
+
+La 4ème semaine du 10 au 17 décembre:
+  - Révision sur tout se qu'on avait fait auparavant.
+  - Préparer une présentation PowerPoint.
+  - Mise en page du rapport.
